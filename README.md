@@ -2,7 +2,9 @@
 
 A dark amber theme for [Omarchy](https://omarchy.org/), pairing the RetroPC palette with a candlelit Frieren and Death wallpaper.
 
-![Frieren of Death wallpaper](backgrounds/frieren-of-death.png)
+![Frieren of Death desktop with terminal and Neovim](preview.webp)
+
+[Full-resolution wallpaper](backgrounds/frieren-of-death.png)
 
 ## Install
 
